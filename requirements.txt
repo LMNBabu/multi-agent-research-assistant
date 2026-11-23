@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+google-generativeai
+tavily-python
+streamlit
+pydantic
+python-dotenv
